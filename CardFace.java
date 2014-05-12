@@ -15,6 +15,7 @@
  * The interface that unites Cards and CardBacks.
  *
  * @author: Arthur Nunes-Harwitt
+ * @editor: Lai-Chung Lau, lxl3375@g.rit.edu
  */
 
 public interface CardFace {

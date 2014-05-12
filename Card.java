@@ -15,6 +15,7 @@
  * Class definition for a card in the concentration card game.
  *
  * @author: Arthur Nunes-Harwitt
+ * @editor: Lai-Chung Lau, lxl3375@g.rit.edu
  */
 
 public class Card implements CardFace {

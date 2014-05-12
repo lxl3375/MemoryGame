@@ -11,7 +11,7 @@ import javax.swing.*;
 /**
  * Class definition for a button that represents a card in the concentration game.
  * 
- * @author Lai-Chung Lau, lxl3375@g.rit.edu
+ * @author: Lai-Chung Lau, lxl3375@g.rit.edu
  */
 
 public class CardButton  extends JButton

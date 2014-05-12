@@ -16,6 +16,7 @@
  * game.
  *
  * @author: Arthur Nunes-Harwitt
+ * @editor: Lai-Chung Lau, lxl3375@g.rit.edu
  */
 
 public class CardBack implements CardFace {

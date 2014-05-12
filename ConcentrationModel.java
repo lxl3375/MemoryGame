@@ -19,6 +19,7 @@ import java.util.Observable;
  * Class definition for the model of a concentration card game.
  *
  * @author: Arthur Nunes-Harwitt
+ * @editor: Lai-Chung Lau, lxl3375@g.rit.edu
  */
 
 public class ConcentrationModel extends Observable {

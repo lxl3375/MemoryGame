@@ -12,7 +12,7 @@ import java.util.*;
 /**
  * Class definition for the cheating window in a concentration card game.
  * 
- * @author Lai-Chung Lau, lxl3375@g.rit.edu
+ * @author: Lai-Chung Lau, lxl3375@g.rit.edu
  */
 public class CheatFrame extends JFrame
 {

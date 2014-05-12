@@ -22,7 +22,7 @@ import java.awt.event.*;
 /**
  * Class definition for the graphical view and controller.
  * 
- * @author Lai-Chung Lau, lxl3375@g.rit.edu
+ * @author: Lai-Chung Lau, lxl3375@g.rit.edu
  *
  */
 public class GViewControl extends JFrame implements Observer
